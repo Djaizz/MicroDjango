@@ -106,7 +106,7 @@ Django = '^4.0'
 
 [build-system]
 requires = [
-  'SetUpTools >= 59.4.0',
+  'SetUpTools >= 59.6.0',
   'Wheel >= 0.37.0'
 ]
 build-backend = 'setuptools.build_meta'
