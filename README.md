@@ -1,1 +1,1 @@
-# `MicroDjango`: Django on low-power devices
+# `MicroDjango`: Django applications on low-power devices
