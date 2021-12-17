@@ -2,7 +2,7 @@
 name = 'MicroDjango'
 version = '0.0.0.dev0'
 
-description = 'Django on low-power devices'
+description = 'Django applications on low-power devices'
 readme = {file = 'README.md', content-type = 'text/markdown', charset = 'UTF-8'}
 
 requires-python = '>= 3.8'
@@ -24,9 +24,13 @@ keywords = [
   'I.o.T.',
   'IoT',
 
+  'application',
+  'app',
+
   'low-power',
   'low power',
 ]
+
 classifiers = [
   'Development Status :: 3 - Alpha',
   # 'Development Status :: 4 - Beta',
